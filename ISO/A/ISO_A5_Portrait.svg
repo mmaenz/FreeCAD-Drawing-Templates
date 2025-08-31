@@ -10,8 +10,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.1"
-   width="148"
-   height="210"
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
    id="svg9950">
   <defs
      id="defs9952">
